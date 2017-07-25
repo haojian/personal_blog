@@ -45,7 +45,7 @@ user study是最难的部分。公司里的人，时间是最贵的。卖尽脸�
 
 12月的chi结果很出乎意外，审稿人给了比uist更低的分，还是要求我做recall test。因为已经被拒过2次了，这一次 coauthor 也基本没什么大兴趣，并不想折腾rebuttal了，建议我可以找个差一点的会议。
 
-我有点不甘心，第一次写了一个strong rebuttal，challenge了一个应该很senior的reviewer。那个reviewer后来很生气，把分数从2分降到了1分。 
+我有点不甘心，第一次写了一个strong rebuttal，背着我的coauthor偷偷提交了。rebuttal里我challenge了一个应该很senior的reviewer。那个reviewer后来很生气，把分数从2分降到了1分。 
 
 收到最终review的那天，并不是特别开心。有无数个瞬间我觉得这个work可能再也发表不了了，我愤愤地和yaozheng说，有一天我要用这篇paper做一个startup，回来打这些审稿人的脸。
 
