@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "英雄千面"
+title: "You won’t succeed right away."
 description: "."
 tags: [research, phd]
 ---

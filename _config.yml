@@ -1,6 +1,6 @@
 # Mandatory settings
 
-name: 井号键
+name: 英雄千面
 paginate: 25
 url: http://blog.haojianj.in/ # add your site url (format: http://example.com/)
 blog_theme: light # Or use dark
