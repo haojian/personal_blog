@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "这可能不是我最好的研究，但应该是我最爱的研究"
+title: "这可能不是我最好的研究，但应该是我最爱的研究。"
 description: "."
 tags: [research, phd]
 ---
