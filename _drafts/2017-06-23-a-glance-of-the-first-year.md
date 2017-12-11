@@ -5,6 +5,3 @@ description: "."
 tags: [life lesson]
 ---
 
-kenneth: 
-
-"我们所特别激动的研究"
