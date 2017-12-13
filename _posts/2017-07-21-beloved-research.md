@@ -2,7 +2,7 @@
 layout: post
 title: "You won’t succeed right away."
 description: "."
-tags: [research, phd]
+tags: [research, phd, cn]
 ---
 
 17年7月初在纽约的时候，收到了一篇颇多波折的论文录取结果，中了acmmm的oral presentation (7% 录取率)。 
