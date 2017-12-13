@@ -33,6 +33,7 @@ The limits of my language means the limits of my world. - Ludwig Wittgenstein
 
 > Sentence level
 - [The Elements of Style](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)
+- [Benjamin Franklin Writing Practice](https://medium.com/personal-growth/the-benjamin-franklin-method-how-to-actually-learn-to-write-1ac4ebc7c3a7)
 
 > Article level
 - [Writing, Briefly - Paul Graham](http://www.paulgraham.com/writing44.html): Write a bad version 1 as fast as you can;
