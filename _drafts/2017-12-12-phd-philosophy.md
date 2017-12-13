@@ -7,6 +7,9 @@ tags: [research, phd]
 
 我是一个nerd.
 
+> The Ph.D. is the beginning, not the culmination, of your career. Get out sooner, rather than late. [So long, and thanks for the Ph.D.!](http://www.cs.unc.edu/~azuma/hitch4.html)
+
+The point of Ph.D. is to get out of phd as soon as possible.
 
 今日良宴会，欢乐难具陈。
 弹筝奋逸响，新声妙入神。
