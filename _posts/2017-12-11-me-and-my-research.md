@@ -26,22 +26,25 @@ kenneth有一个很有趣的比喻，把研究比成akb48。如果你不是akb4
 交互技术简单而且具体，我有一个臭名昭著的习惯就是把项目的视频放在手机里。这些项目可以让最多的观众欣赏我的研究，也最容易吸引别人的关注。但是看到国内硬件创业的过程以后，我也明白这些新颖的技术很难应用到产品里。虽然很难亲手把这些项目做到产品里，但是像jeff 和 patrick 这样能inspire到工程师，依然是一件非常激动人心的事。直到jason点了一个问题给我：你觉得是我们这些做研究的人inspire了工业界的工程师，才有了这些技术，还是那些工程师完全不知道我们的论文，只是重新发明了一切。我在工业界的经历告诉我，应该是后者。这个世界上有[太多的聪明人](http://nautil.us/issue/43/Heroes/if-not-darwin-who)。
 
 
-之后我开始特别羡慕那些ict4d的研究，因为16年的麦克阿瑟天才奖给了几个ict4d的研究员。
-> "This is not about making things 100 times faster, 100 times bigger, 100 times more futuristic. This is about making things 100 times simpler, 100 times cheaper, 100 times more inclusive."  - [bill-thies]((https://www.seattletimes.com/business/microsoft/microsoft-researcher-bill-thies-wins-macarthur-grant/))
+之后我开始特别羡慕那些ict4d的研究，因为16年的麦克阿瑟天才奖给了几个ict4d的研究员。这些应该是少数真正从学术界出发，但解决了一些真实世界问题的研究。我准备了很多类似的想法，但都不如他们的想法简单而直接。
+
+> "This is not about making things 100 times faster, 100 times bigger, 100 times more futuristic. This is about making things 100 times simpler, 100 times cheaper, 100 times more inclusive."  - [Bill Thies]((https://www.seattletimes.com/business/microsoft/microsoft-researcher-bill-thies-wins-macarthur-grant/))
 
 <img src="http://thekidshouldseethis.com/wp-content/uploads/2017/01/toy-inspired-Paperfuge-cost-paper-centrifuge.jpg"/>
 [用旋转陀螺来分离血液](https://news.stanford.edu/2017/01/10/whirligig-toy-bioengineers-develop-20-cent-hand-powered-blood-centrifuge/)
 
-这些应该是少数真正从学术界出发，但解决了一些真实世界问题的研究。我准备了很多类似的想法，但都不如他们的想法简单而直接。
+
+后来因为jason和sauvik的影响，我开始关注很多hci理论，乃至social science。Sauvik的研究很有意思，希望通过社交压力来估计大家改善密保行为。他在facebook的实习跑了一些真实世界的实验，得到了很多有意思的结果，也验证了很多传统的社会学理论。我也很想像sauvik一样找到，能指引自己研究的理论方向。
 
 
-再到后面，因为jason和sauvik的印象，我开始关注很多hci理论，乃至social science的东西。Sauvik的研究很有意思，希望通过社交压力来估计大家改善密保行为。他在facebook的实习跑了一些真实世界的实验，得到了很多有意思的结果，也验证了很多传统的社会学理论。我也很想像sauvik一样找到，能指引自己研究的理论方向。
+但是过了一阵我又不能完全被理论的东西说服自己。我们为什么需要这些理论，事实上这些理论只是从某一个方面解释了这个问题。但是如果在更高的层面上看，或者到现实世界里，这些理论并不能决定一个产品。或许无限制地跑大规模的 a／b test 来探索产品决定是不现实的，但是一个产品经历的直觉可能并不需要那么多理论。理论最后也只是产品设计里的一个小考虑。理论对于我而言，还是太过学者，我想要更入世。
 
-但是过了一阵我又不能完全被理论的东西说服自己。我们为什么需要这些理论，事实上这些理论只是从某一个方面解释了这个问题。但是如果在更高的层面上看，或者到现实世界里，这些理论并不能决定一个产品。或许无限制地跑大规模的 a／b test 来探索产品决定是不现实的，但是一个产品经历的直觉可能并不需要那么多理论。理论最后也只是产品设计里的一个小考虑。理论对于我而言，还是太过学者，而我想要更加入世。
 
-<!-- 或者一个产品的直觉或者都能改变这些。这是我挣扎的地方。甚至当sauvik在berkeley给talk的时候，我感觉台下的audience也并没有完全买账。 -->
+过去的一年，我写了4篇论文投了6次会议，有据有接收。让我明白的是，学术圈有一套自己运行的规则，你要遵守它的规则，你的论文才能发表。比如CHI有着对user study的执着。对于科学而言，知道一项科技效果怎样，和发明这个科技一样重要。但很多时候只是审稿人比较懒，他们喜欢的句式是 "good idea, but I think your need a user study that ____. Otherwise, __"。这些review经常都自我expertise评价最高的人，然后抱着特别大的固执去审视一篇论文。看到他们，我告诫自己，我一定不要成为这样的人。我并不排斥user study，但是我不想做不必要的user study，也不喜欢取悦审稿人。这一年我厌倦很多研究。并不是因为那些研究阳春白雪，而是不如阳春白雪。
 
-过去的一年，我写了4篇论文投了6次会议，有据有接收。让我明白的是，学术圈有一套自己运行的规则，你要遵守它的规则，你的论文才能发表。比如CHI有着对user study的执着。对于科学而言，知道一项科技效果怎样，和发明这个科技一样重要。但很多时候只是审稿人比较懒，他们喜欢的句式是 "good idea, but I think your need a user study that ____. Otherwise, __"。这些review经常都自我expertise评价最高的人，然后抱着特别大的固执去审视一篇论文。看到他们，我告诫自己，我一定不要成为这样的人。我并不排斥user study，但是我不想做不必要的user study，也不喜欢取悦审稿人。这一年我厌倦很多研究。并不是因为那些研究阳春白雪，而是不如阳春白雪。我看不到这个研究除开这篇论文以外的意义。
+
+在写这篇博客的时候，我
+
 
 科学的精神很多时候归结于说话严谨。所以title里要加很多的状语和定语，为了告诉别人我们的发现只适用于这一类人群。如果你在另外一个人群上不能复现，那可能是人群的问题。然后在寻找数据时，刻意地寻找一些insights。因为有insights才能发表，所以有了各种p value hacking。所以或者是找到很牵强的数据，或者是找到很符合自己猜想的数据。
 
