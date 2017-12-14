@@ -35,8 +35,36 @@ CHI整个community有一个莫名的对于user study的执着。不管什么事�
 
 我还是要做有意义的研究，但是同时尽可能多地发表论文。在挑选研究项目的时候，我要挑选那些有更大的媒体报道价值的，和更大媒体报道价值的。最重要的是，这些科技要有commericialize的价值。既然这个世界是肤浅的，那我也要做一个肤浅的人。
 
+对于我的重要性而言，
+1. 这个技术要有commercialized的技术，我并不要做阳春白雪的科研。我的科研是入世的。
+2. 我做的研究要被大家都能欣赏，普通人
+3. 新颖而且难。 intellectural challenging.
+4. 有新的理论。
 
 
+
+在我开始博士之前，我最感兴趣的其实是interaction technique。我喜欢特别酷的东西，那些充满未来感的设计和科技，让我仿佛可以提前感觉到未来。这里面最好的例子是就是jeff han的multitouch，还有patrick baudisch的shift。后来最早打击我的是jason，你觉得究竟是我们这些interaction technique 研究真的inspire到别人，还是就是工业界里面那些聪明的工程师reinvent everything。研究对于我最大的意义在于站在未来看现在。能提前看到未来是什么样的。那个时候我的人生目标是开一个studio，就像disney的imagineer一样，专门为各种大型舞台节目设计特效或者未来的交互。
+
+> The best way to predict the future is to invent it.
+
+
+
+我想我最大的问题是 我们如何可以stand out 作为一个hci研究员，另外一方面我们怎么样
+
+
+另外一个例子是jason讲的。和jason的交流过程中，就是不停地pitch idea然后不停地被打击。每次开会前，或者睡觉前，我热血沸腾地准备了七八个idea，然后找jason去pitch。很多我都觉得非常有意思，或者让我自己非常热血沸腾。但是100%都被jason打击回来了。
+
+我心里觉得坐在那里唱反调总是容易的。就像
+
+ 
+
+
+
+
+[If Not Darwin, Who?](http://nautil.us/issue/43/Heroes/if-not-darwin-who)
+
+
+<!-- 
 <table class="tg">
   <tr>
     <th class="tg-baqh"></th>
@@ -68,24 +96,4 @@ CHI整个community有一个莫名的对于user study的执着。不管什么事�
     <td class="tg-baqh">W</td>
     <td class="tg-baqh">0.07 - 0.17</td>
   </tr>
-</table>
-
-在我开始博士之前，我最感兴趣的其实是interaction technique。我喜欢特别酷的东西，那些充满未来感的设计和科技，让我仿佛可以提前感觉到未来。这里面最好的例子是就是jeff han的multitouch，还有patrick baudisch的shift。后来最早打击我的是jason，你觉得究竟是我们这些interaction technique 研究真的inspire到别人，还是就是工业界里面那些聪明的工程师reinvent everything。研究对于我最大的意义在于站在未来看现在。能提前看到未来是什么样的。那个时候我的人生目标是开一个studio，就像disney的imagineer一样，专门为各种大型舞台节目设计特效或者未来的交互。
-
-> The best way to predict the future is to invent it.
-
-
-
-我想我最大的问题是 我们如何可以stand out 作为一个hci研究员，另外一方面我们怎么样
-
-
-另外一个例子是jason讲的。和jason的交流过程中，就是不停地pitch idea然后不停地被打击。每次开会前，或者睡觉前，我热血沸腾地准备了七八个idea，然后找jason去pitch。很多我都觉得非常有意思，或者让我自己非常热血沸腾。但是100%都被jason打击回来了。
-
-我心里觉得坐在那里唱反调总是容易的。就像
-
- 
-
-
-
-
-[If Not Darwin, Who?](http://nautil.us/issue/43/Heroes/if-not-darwin-who)
+</table> -->
