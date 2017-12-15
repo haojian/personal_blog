@@ -100,8 +100,6 @@ Kenneth有一个很有趣的比喻，把研究比成akb48。akb48是一个大型
 
 
 
-
-
 <!-- 
 
 就像[The Sugar Daddy of Science]()里说的一样，`Science is unable to set its own priorities.`  -->
@@ -114,7 +112,6 @@ Kenneth有一个很有趣的比喻，把研究比成akb48。akb48是一个大型
 <!--  
 我作为一个研究和工程性比较强的一个人来看呢，好的技术其实蛮多的，包括学术界里大家都在造锤子，但是事实上来看好的钉子不太多，钉子是很好的行业应用，如果把好的技术结合到行业应用，让这个技术真正的落地，这是一个极大的挑战，不论在硅谷，在美国别的地方、全世界别的地方都有巨大挑战。 -->
 
-
 <!-- 
 <table class="tg">
   <tr>
@@ -122,29 +119,5 @@ Kenneth有一个很有趣的比喻，把研究比成akb48。akb48是一个大型
     <th class="tg-baqh">Theory</th>
     <th class="tg-baqh">Technology</th>
     <th class="tg-baqh">Application</th>
-  </tr>
-  <tr>
-    <td class="tg-baqh">A</td>
-    <td class="tg-baqh">0.75</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">B</td>
-    <td class="tg-baqh">0.47</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">C</td>
-    <td class="tg-baqh">0.4 - 0.7</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">C</td>
-    <td class="tg-baqh">1.0 - 1.8</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">S</td>
-    <td class="tg-baqh">0.15 - 2.0</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">W</td>
-    <td class="tg-baqh">0.07 - 0.17</td>
   </tr>
 </table> -->
