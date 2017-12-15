@@ -55,7 +55,7 @@ Kenneth有一个很有趣的比喻，把研究比成akb48。akb48是一个大型
 
 > 论文以外。
 
-我在申博士的personal statement写，我要做sexy research。最好的例子就是Takeo的[科学折飞机](https://www.youtube.com/watch?v=-KJUVJAUY8o)，我称之为“可爱而性感的研究”。我研究的开始，就是以抖机灵开始的。写[Corona](https://vimeo.com/149240808)时，只有一个得瑟的目标，你看，我聪不聪明机不机智？
+我在申博士的personal statement写，我要做sexy research。最好的例子就是Takeo的[科学折飞机](https://www.youtube.com/watch?v=-KJUVJAUY8o)，我称之为“可爱而性感的研究”。我的研究是从抖机灵开始的。写[Corona](https://vimeo.com/149240808)时，只有一个得瑟的目标，你看，我聪不聪明机不机智？
 
 今年，我有意识地在减少那些仅仅因为觉得可爱而去开始的项目。论文的发表不应该是一个项目的终点。如果一个项目最后的结果就只是一篇论文，那么它不值得我的时间。这些可爱的研究可以满足我的好奇心，但不能够到达我想要到的地方。
 
