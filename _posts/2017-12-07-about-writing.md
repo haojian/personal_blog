@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "写作是为了发现."
-description: "writing is much more important than an entry in my wiki."
+description: "writing deserves more than an entry in my wiki."
 tags: [research, phd, cn]
 ---
 
