@@ -15,18 +15,18 @@ Kenneth有一个很有趣的比喻，把研究比成akb48。akb48是一个大型
 我喜欢hci，起因是hci的工作特别具体，可以让所有人明白我的工作。但过去一年我在迷失。我不知道什么是我研究的核心？大部分新发表的CHI/UIST/UbiComp工作都不再让我激动。我怀疑自己为什么在这里做研究。
 
 
-- 是为了解决一个真实世界的问题？那为什么我要来学术界解决。在工业界有更多的资源去解决这些问题。
-- 是为了发明新的交互科技？但是这些新颖的交互真的是一个大问题么，那些类似黑客帝国特效的交互会是未来么？
-- 还是为了提出新的理论？为生活里的行为提供指引和解释？但是除开教授们偶尔去公司做做consulting，这些理论能在短期内影响现实世界么？
+- 是为了解决一个真实世界的问题？那为什么我要来学术界解决。工业界可以有更多的资源去解决这些问题。
+- 是为了发明新的交互科技？或者就是为了追求无用而美好的艺术？
+- 还是为了提出新的理论？为这个世界提供指引和解释？
 
 
-在我开始phd的时候，我喜欢发明新的交互技术。我那时候的人生目标是开一个studio，就像disney的imagineer一样，专门为各种大型舞台节目设计特效或者未来的交互。Jeff Han的[multitouch](https://www.cc.gatech.edu/computing/classes/AY2012/cs4470_fall/readings/han-ftir.pdf) 和 Patrick Baudisch的[shift](http://www.patrickbaudisch.com/projects/shift/) 是我最向往的两个项目。这两个项目是今天手机触摸屏上多点触摸和长按放大镜的原型。
+在我开始phd的时候，我喜欢发明新的交互技术。那时候我的人生目标是开一个工作室，就像迪士尼的imagineer一样，专门为各种大型舞台节目设计特效或者未来的交互。Jeff Han的[multitouch](https://www.cc.gatech.edu/computing/classes/AY2012/cs4470_fall/readings/han-ftir.pdf) 和 Patrick Baudisch的[shift](http://www.patrickbaudisch.com/projects/shift/) 是我最向往的两个项目。这两个项目不但当时看起来炫酷，而且是今天手机触摸屏上多点触摸和长按放大镜的原型。
 
 
-交互技术简单而且具体，可以让最多的观众欣赏我的研究，也最容易吸引别人的关注。16年看到硬件创业的艰难以后，我也明白这些新颖的技术很难应用到产品。虽然很难亲手把这些项目落实，但是像jeff和patrick那样能启发到工程师，依然是一件非常激动人心的事。直到jason点了一个问题给我：你觉得是我们这些做研究的人启发了工业界，还是那些工程师完全不知道我们的论文，只是重新发明了一切。
+交互技术简单而且具体，可以有最多的观众，也可以满足我的ego。但16年看到硬件创业的艰难以后，我明白新颖的技术很难应用到产品。虽然很难亲手把这些项目落实，但是如果能像jeff和patrick那样能启发到工程师，依然是一件非常激动人心的事。直到jason点了一个问题给我：你觉得是我们这些做研究的人启发了工业界，还是那些工程师完全不知道我们的论文，只是重新发明了一切？
 
 
-因为16年的麦克阿瑟天才奖给了几个ict4d的研究员，我特别羡慕ict4d的研究。我准备了很多类似的想法，但都不如他们的想法简单而直接。我想我天赋有限，并没有那么聪明。
+16年的麦克阿瑟天才奖给了几个ict4d的研究员，把我也引向了ict4d的研究。我准备了很多类似的想法，但都不如他们的想法简单而直接。这个发明似乎真的能改变世界，但我却没有那么聪明。
 
 > "This is not about making things 100 times faster, 100 times bigger, 100 times more futuristic. This is about making things 100 times simpler, 100 times cheaper, 100 times more inclusive."  - [Bill Thies]((https://www.seattletimes.com/business/microsoft/microsoft-researcher-bill-thies-wins-macarthur-grant/))
 
@@ -34,19 +34,17 @@ Kenneth有一个很有趣的比喻，把研究比成akb48。akb48是一个大型
 [用旋转陀螺来分离血液](https://news.stanford.edu/2017/01/10/whirligig-toy-bioengineers-develop-20-cent-hand-powered-blood-centrifuge/)
 
 
-因为jason和sauvik的影响，我也开始关注很多hci理论，乃至social science。Sauvik的研究很有意思，希望通过社交压力来鼓励大家改善密保行为。他在facebook的实习跑了一些真实世界的实验，验证了很多传统社会学理论在安全领域的应用。过去一学期，我也很想像sauvik一样找到能指引自己研究的理论方向。
-
+因为jason和sauvik的影响，我开始关注很多hci理论，乃至social science。Sauvik的研究很有意思，希望通过社交压力来鼓励大家改善密保行为。他在facebook的实习跑了一些真实世界的实验，验证了很多传统社会学理论在安全领域的应用。过去一学期，我也很想像sauvik一样找到能指引自己研究的理论方向。
 
 最后，我还是不能完全被理论的东西说服。社会学理论只是从某一个侧面解释了这个问题，但如果在更高的层面上看，或者到现实世界里，这些理论并不能决定一个产品。我们不需要对每个产品设计决定来跑a/b test，产品经理的直觉是暗藏这些理论的。理论对于我而言还是太过学者。
 
-
-过去的一年，我写了4篇论文投了6次会议，有据有接收。让我学到，学术圈有一套自己运行的规则，要遵守它的规则，论文才能发表。比如CHI喜欢user study，mobisys喜欢系统实验。对于科学而言，知道一个新科技效果怎样，和发明这个科技一样重要。但我有些失望的是，很多审稿人比较懒，他们并不愿意深入去思考论文背后的贡献。他们喜欢的句式是 "good idea, but I think your need a user study that ____. Otherwise, __"。但是，超脱开来看，这又算些什么。如emily所说，`在学校里遇到人心最黑暗的事情，也不过是被审稿人压着头去做user study。` 也像xingdong说的，论文发表出来，才能有后面的故事。
+过去的一年，我写了4篇论文投了6次会议，有据有接收。让我学到，学术圈有一套自己运行的规则，要遵守它的规则，论文才能发表。比如CHI喜欢user study，mobisys喜欢系统实验。对于科学而言，知道一个新科技效果怎样，和发明这个科技一样重要。但我有些失望的是，很多审稿人比较懒，他们并不愿意深入去思考论文背后的贡献。他们喜欢的句式是 "good idea, but I think your need a user study that ____. Otherwise, __"。但是，超脱开来看，如emily所说，`在学校里遇到人心最黑暗的事情，也不过是被审稿人压着头去做user study。` 论文发表出来，才能有后面的故事。
 
 
 ---
 ---
 
-在写这篇essay的初衷是为了帮助自己思考，究竟想要做什么样的研究。研究本身并没有优先级，但是势利如我，希望我的时间投入能有性价比。
+在写这篇essay的初衷是为了帮助自己思考，究竟想要做什么样的研究。研究本身并没有优先级，但我希望我的时间投入能有性价比。
 
 > 研究的罩门。
 
