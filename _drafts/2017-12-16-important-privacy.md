@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "AI的安全"
+title: "Privacy"
 description: "Reflections on Privacy & AI"
 tags: [research, phd]
 ---
+
 
 
     1. 
