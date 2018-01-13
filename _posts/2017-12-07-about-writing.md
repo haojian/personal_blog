@@ -38,6 +38,12 @@ The limits of my language means the limits of my world. - Ludwig Wittgenstein
 
 > Article level
 - [Writing, Briefly - Paul Graham](http://www.paulgraham.com/writing44.html): Write a bad version 1 as fast as you can;
-
-
 - [Writer's Web: Getting Started](http://writing2.richmond.edu/writing/wweb/started.html): a comprehensive tutorial.
+
+
+
+### Cheatbook rules
+
+> [Which tense should be used in the results and discussion section of a paper?](https://www.editage.com/insights/which-tense-should-be-used-in-the-results-and-discussion-section-of-a-paper):
+- The results section describes experiments that were completed before the paper was written. Use simple past tense.
+- Use present tense to refer to tables/figures/graphs. 
