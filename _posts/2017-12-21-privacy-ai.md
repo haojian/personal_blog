@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "我和我的研究."
-description: "Me and my research."
+title: "隐私是个灰色地带."
+description: "It's a Grey World."
 tags: [research, phd, cn]
 ---
 
-12年纽约时报有一个影响很大的报道: Target可以比少女的爸爸更早知道未成年少女怀孕。孕妇在孕期会买很多特定的商品，如钙片，锌片，没有气味的乳液等等。Target通过统计购买记录，手动发现了25种产品可以和购买者是否怀孕有联系。甚至可以通过购买的商品，可以判断孕妇怀孕多久。
+> 这篇文章改改停停，第一版写在17年6月，但是每隔一阵都有新的想法。写了差不多半年，最后发现得到的结论早就已经在Jason十年前的[job talk]()里面表述过了。
 
-这个例子是数据库应用的扩展。在那之前，最有名的案例是[沃尔玛发现买尿布的人经常一起买啤酒](https://www.theregister.co.uk/2006/08/15/beer_diapers/)。美国的青年男性一般喜欢周五晚上去酒吧喝啤酒。但是刚有小孩以后，因为小孩的压力，这些人就不能去酒吧了。所以，他们逛超市买尿布时，就会买一些啤酒回家喝。后来超市把尿布放在啤酒专柜旁边，啤酒的销量也因此提高。
+<img src=`_assets/resources/privacy_tech_market_legal_social.png`/>
 
-Target这个新闻当时引起很大争议，因为未成年少女怀孕是一个敏感话题。类似的新闻从来没有间断。今年上半年，有媒体报道[Facebook可以让广告商通过个人的情感状态来推送广告](https://www.theguardian.com/technology/2017/may/01/facebook-advertising-data-insecure-teens)，因为Facebook当时有一个研究，发现他们可以通过分析青少年更新的文字来判断他们心情是否低落，是否自我怀疑。而到下半年，facebook主动宣传了另外一个故事，[facebook可以通过ai来阻止自杀](https://www.washingtonpost.com/news/the-switch/wp/2017/11/27/facebook-is-using-ai-to-try-to-prevent-suicide/?utm_term=.0fd95dbb7b3e)。同样的技术出现在了正反两个故事里。
+
+
+12年纽约时报有一个影响很大的报道: Target可以比少女的爸爸更早知道未成年少女怀孕。孕妇在孕期会买很多特定的商品，如钙片，锌片，没有气味的乳液等等。Target通过统计购买记录，手动发现了25种产品可以和购买者是否怀孕有联系。甚至可以通过购买的商品，可以判断孕妇怀孕多久。这个例子是数据库应用的扩展。在那之前，最有名的案例是[沃尔玛发现买尿布的人经常一起买啤酒](https://www.theregister.co.uk/2006/08/15/beer_diapers/)。美国的青年男性一般喜欢周五晚上去酒吧喝啤酒。但是刚有小孩以后，因为小孩的压力，这些人就不能去酒吧了。所以，他们逛超市买尿布时，就会买一些啤酒回家喝。后来超市把尿布放在啤酒专柜旁边，啤酒的销量也因此提高。
+
+Target这个新闻当时引起很大争议，因为未成年少女怀孕是一个敏感话题。类似的新闻还有很多。今年上半年，[Facebook被发现允许广告商通过个人的情感状态来推送广告](https://www.theguardian.com/technology/2017/may/01/facebook-advertising-data-insecure-teens)，因为Facebook当时有一个研究，发现他们可以通过分析青少年更新的文字来判断他们心情是否低落，是否自我怀疑。而到下半年，facebook主动宣传了另外一个故事，[facebook可以通过ai来阻止自杀](https://www.washingtonpost.com/news/the-switch/wp/2017/11/27/facebook-is-using-ai-to-try-to-prevent-suicide/?utm_term=.0fd95dbb7b3e)。同样的技术出现在了正反两个故事里。
 
 技术是中性的。可以用来作恶，也可以用来行善。但是难的是美好的意愿，并不一定就导向好的结果。
 
