@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "隐私是个灰色地带."
+title: "灰色隐私."
 description: "It's a Grey World."
 tags: [research, phd, cn]
 ---
 
 > 这篇文章改改停停，第一版写在17年6月，但是每隔一阵都有新的想法。写了差不多半年，最后发现得到的结论早就已经在Jason十年前的[job talk]()里面表述过了。
 
-<img src=`_assets/resources/privacy_tech_market_legal_social.png`/>
 
+
+<img src="../_assets/resources/privacy_tech_market_legal_social.png"/>
 
 
 12年纽约时报有一个影响很大的报道: Target可以比少女的爸爸更早知道未成年少女怀孕。孕妇在孕期会买很多特定的商品，如钙片，锌片，没有气味的乳液等等。Target通过统计购买记录，手动发现了25种产品可以和购买者是否怀孕有联系。甚至可以通过购买的商品，可以判断孕妇怀孕多久。这个例子是数据库应用的扩展。在那之前，最有名的案例是[沃尔玛发现买尿布的人经常一起买啤酒](https://www.theregister.co.uk/2006/08/15/beer_diapers/)。美国的青年男性一般喜欢周五晚上去酒吧喝啤酒。但是刚有小孩以后，因为小孩的压力，这些人就不能去酒吧了。所以，他们逛超市买尿布时，就会买一些啤酒回家喝。后来超市把尿布放在啤酒专柜旁边，啤酒的销量也因此提高。

@@ -33,6 +33,7 @@ assets:
     - _assets/images
     - _assets/javascripts
     - _assets/stylesheets
+    - _assets/resources
     - _vendor/
 collections:
   my_tags:
