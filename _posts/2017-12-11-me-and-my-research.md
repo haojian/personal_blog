@@ -57,7 +57,7 @@ Kenneth有一个很有趣的比喻，把研究比成akb48。akb48是一个大型
 今年，我有意识地在减少那些仅仅因为觉得可爱而去开始的项目。论文的发表不应该是一个项目的终点。如果一个项目最后的结果就只是一篇论文，那么它不值得我的时间。这些可爱的研究可以满足我的好奇心，但不能带我到我想要去的地方。我开始不喜欢在论文里面加一堆状语，然后说这是the first work of blabla。发表论文的意义不是“这个方向没有人写过”，或者“让我来解决这个小问题，它的成果会很容易展示”；研究意味着“如果我做了，这一重大问题就有了更好的解决方案”，“如果我做了，我就真正开拓了这一领域”。
 
 
-> [My research topic should have many ‘customers’, and my solution would be the one they want to use. - Fei-fei Li](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
+> My research topic should have many ‘customers’, and my solution would be the one they want to use. - [Fei-fei Li](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
 
 <!-- 希望我的时间投入能有性价比。 -->
 
