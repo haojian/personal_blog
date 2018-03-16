@@ -222,16 +222,16 @@ AI的本质是大规模的自动决策，很多过去不能实现的精准打击
 
 
 
-我大部分时候觉得是应该拥抱这些技术改变的。就像人类进化一样，我们需要大量的试错成本。而且今天的我们也承担的起这些试错成本。我们不可能不犯错，我们真正需要的是不断的监管和自我反省，发现自己的错误。当错误发生的时候，有能力去改掉这些错误。
+<!-- 我大部分时候觉得是应该拥抱这些技术改变的。就像人类进化一样，我们需要大量的试错成本。而且今天的我们也承担的起这些试错成本。我们不可能不犯错，我们真正需要的是不断的监管和自我反省，发现自己的错误。当错误发生的时候，有能力去改掉这些错误。 -->
 
 
-我对于这些
+<!-- 我对于这些 -->
 
-往好了用就是好，往坏了用就是坏。但是这个世界有太多的灰色地带。不是我们需要
+<!-- 往好了用就是好，往坏了用就是坏。但是这个世界有太多的灰色地带。不是我们需要 -->
 
-最终解决所有问题最好的办法就是改善教育，把所有人教育成好人。但是这里面
+<!-- 最终解决所有问题最好的办法就是改善教育，把所有人教育成好人。但是这里面 -->
 
-往好了用
+<!-- 往好了用
 
 最常见的说法是技术本身是中立的，关键是看人怎么用。好人用就是好，坏人用就是坏。解决这个世界最好的办法，就是把所有人教育成好人。这里面归根到底，是动机。是好的动机，还是坏的动机？
 
@@ -278,4 +278,4 @@ privacy to algorithms.
 
 
 
-[Facebook told advertisers it can identify teens feeling 'insecure' and 'worthless'](https://www.theguardian.com/technology/2017/may/01/facebook-advertising-data-insecure-teens)
+[Facebook told advertisers it can identify teens feeling 'insecure' and 'worthless'](https://www.theguardian.com/technology/2017/may/01/facebook-advertising-data-insecure-teens) -->
