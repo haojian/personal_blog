@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "You won’t succeed right away."
-description: "."
+title: "接受拒绝"
+description: "You won’t succeed right away. - sauvik"
 tags: [research, phd, cn]
 ---
 
