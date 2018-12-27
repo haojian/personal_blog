@@ -32,6 +32,7 @@ The limits of my language means the limits of my world. - Ludwig Wittgenstein
 - [Verbal Advantage: 10 Steps to a Powerful Vocabulary](https://www.amazon.com/Verbal-Advantage-Steps-Powerful-Vocabulary/dp/0375709320)
 
 > Sentence level
+- [shaving words off of your writing?](https://twitter.com/ilana_horn/status/1071776519834492928)
 - [The Elements of Style](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)
 - [Benjamin Franklin Writing Practice](https://medium.com/personal-growth/the-benjamin-franklin-method-how-to-actually-learn-to-write-1ac4ebc7c3a7)
 - [Verbs: Past Tense? Present?](http://writing2.richmond.edu/writing/wweb/litpres.html): 1). consistent 2). 

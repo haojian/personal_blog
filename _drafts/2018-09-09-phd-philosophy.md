@@ -7,7 +7,9 @@ tags: [research, phd]
 
 > Where Are You Going, Where Have You Been? 
 
-Before I started my Ph.D at CMU, I had a full-time job in Yahoo Research. It's a decent job with decent salary in a decent location. Everything is just decent. But I am an agressive person and hate for being decent. So I decided to do a PhD at the end of my 20s. 
+Before I started my Ph.D at CMU, I had a full-time job in Yahoo Research. It was a decent job with decent salary in a decent location. Everything is just decent. I was an aggressive youth back then, and hate for being decent. So I decided to do a PhD at the end of my 20s. I have been searching the reasons for 
+
+ thinking about the reasons
 
 I had been keep thinking the reason that why I come to grad school, even when I am at the school. I also kept coming across with the junior undergradte/master students who are hesitating if they should do a PhD. Sadly, I don't even have a good answer for myself. I feel I just want to do a Ph.D. in my life. If I don't do it for now, it would be much harder for me to do it in my later life. It might be not finacially smart, but i hope it's intelligently smart. 
 
