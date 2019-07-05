@@ -5,6 +5,29 @@ description: "human centered value function."
 tags: [life, phd, cn]
 ---
 
+
+拖了很久，终于在jason的接连催促下，把 [email++](https://arxiv.org/abs/1907.01423) 上传到了 arXiv。论文想法很简单，如何去修改已经发出去的邮件。因为SMTP protocols的关系，邮件发出去以后，就存储在了收件人的服务器，发件人就不能再修改了。我经常因为自己蹩脚的语法，发现刚发出去的邮件有时态错误。做法也很简单，把邮件里面一部分内容换成图片超链接，而图片是存在第三方服务器上的。这样只要更新第三方图片，收件人看到的邮件也会相应改变。整篇论文介绍了我做的chrome 插件，但是没做 user study。
+
+
+回过头去看，email++ 是我刚入学博士的心态，想在顶级学术会议上证明自己。我想模仿的是 chris harrison 的 [http://chrisharrison.net/projects/obliqueLCD/lcdangle.pdf](A New Angle on Cheap LCDs: Making Positive Use of Optical Distortion) 和 juho kim 的 [Content-Aware Kinetic Scrolling for
+Supporting Web Page Navigation](https://juhokim.com/files/UIST2014-CAKS.pdf). 我说服自己这是一个很好的锻炼，去磨练我的写作，怎么样把一个简单而可爱的想法发表。但是我功力不够。这篇论文投了两次 (UIST 2017, CHI 2018), 两次分数都是borderline, reviewer 表示愿意接收这篇论文如果我做一个user study的话。我觉得这篇论文的核心不在于user study，而在于这个想法。user study是画蛇添足。另外，更重要的是，如果做了user study，我也就没达到自己的目标：我想要探索 minmal publishable unit的初心。
+
+
+我对自己很失望是我没有抓到这样的一个窍门。一直到有一天看到 david chang 的一个[访问](https://www.wired.com/2016/07/chef-david-chang-on-deliciousness/), 里面有一句话让我印象很深刻。
+```
+To compensate for my lack of dexterity, speed, and technique, I think about food constantly. In fact, I’m much stronger at thinking about food than I am at cooking it.
+```
+
+学术圈有很多rock star (i.e., 论文机器)，他们都非常删除
+
+最后我也没和这篇论文达成和解，我也就没在这篇论文上花费任何时间。
+
+
+
+
+学术圈有各种各样的rock star，每个人都有一个超级长的论文列表。当你在学术圈呆久了以后，你会有一种game这个system的的冲动。熟悉论文评审的规则，如果包装自己的研究，让他被别人喜欢。很长一段时间，我不能和自己和解，因为我对自己很失望是我显然没有抓住这么一个窍门。我对我的writing很担心。每次
+
+
 我是一个很喜欢价值函数(value function)的人，回想起来，我的大部分论文里面都会把一个实际问题变成一个价值函数，然后去优化它，寻找最优解。
 
 tracko 优化的是distance ressidual
