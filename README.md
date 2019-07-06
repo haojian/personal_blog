@@ -60,6 +60,8 @@ Next setup your environment:
 
 ### Development
 
+(sudo gem install -n /usr/local/bin bundler)
+
 Run Jekyll:
 
     bundle exec jekyll serve
