@@ -24,7 +24,7 @@ Supporting Web Page Navigation](https://juhokim.com/files/UIST2014-CAKS.pdf). �
 因为这句话，我成了david chang的小粉丝。研究和做饭很像。学校里有很多天赋异禀的stellar scientists，他们一路顶级学霸，非常好的数学功底和编程能力，就像那些手指灵巧的厨师。可能我写一天的程序，大佬们坐下来一小时就写完了。相比于他们，我的特长可能是在“想”这件事上了。匹兹堡并不是一个娱乐生活丰富的城市，这让我把大部分时间都丢进了读书和空想。事实上，我对每个项目想的时间要比做的时间多很多。时间久了，我反而觉得这种局限是一种特别的优点。
 
 
-当我开始看更大更远的地方的时候，我觉得email++这篇论文有些不值得我的时间，我最后决定不在这个项目上继续投入任何时间。差不多同一时间，我还砍掉了好几个类似的论文项目。<b>并不是我再不需要证明自己，而是我觉得发这些论文也证明不了自己。</b>这篇essay记录了自己这几年想法的变化: 神棍-》工程师-》高立意低视角，这些变化其实并不是顺序发生，更多是阶段性地递进。
+当我开始看更大更远的地方的时候，我觉得email++这篇论文有些不值得我的时间，我最后决定不在这个项目上继续投入任何时间。差不多同一时间，我还砍掉了好几个类似的论文项目。<b>并不是我再不需要证明自己，而是我觉得发这些论文也证明不了自己。</b>这篇essay记录了自己这几年想法的变化: 神棍-》工程师-》高立意低视角，这些变化其实并不是顺序发生，只是类似的事情重复发生，我今天回过头去看，才觉得这是我想要的研究风格。
 
 #### 1. 神棍
 
@@ -36,17 +36,19 @@ Supporting Web Page Navigation](https://juhokim.com/files/UIST2014-CAKS.pdf). �
 
 作为实验手段，我从淘宝买了人民日报1940年到2017年的数据集，去分析里面汉字的频率。可以看到很多90年代的低频字和2010年的低频字有不一样的特点。90年代的低频字更多字形简单，而2010年的低频字发音简单。我觉得这是因为输入法从拼音到五笔的转变。
 
-我有一个满满小本子的类似想法，大部分都无疾而终。这些想法有两个共同点，1) 都让我非常激动，2) 但是最后发现都很难找到好的切入点。时间久了，有些想法就淡掉了，但有些想法却腻在脑子里不肯去。等缘分到了，总会有机会重新捡起。
+我有一个满满小本子的类似想法，大部分都无疾而终。这些想法有两个共同点，1) 都让我非常激动，2) 最后发现都很难找到好的切入点。时间久了，有些想法就淡掉了，但有些想法却腻在脑子里不肯去。最近我就捡起了一年级时心心念的一个项目重新开始做。
+
+<!-- 等缘分到了，总会有机会重新捡起。 -->
 
 #### 2. 工程师
 
-有一句玩笑说：“当科学家快要攀登到真理的顶峰时，他们发现神/佛/哲学家已经在那里等候多时了”。我在天上没飘多久，很快就被哲学的书吸引过去了。17年的时候，[scott klemmer](https://d.ucsd.edu/srk/) 来hcii给talk，一起吃了一顿午饭。scott的气质让我非常羡慕，我也好想活得这么spiritual。scott 安利了达赖的鸡汤书 [The Art of Happiness](https://www.amazon.com/Art-Happiness-10th-Anniversary-Handbook-ebook/dp/B002UK6NO0), 读完以后，我思考了一年“人为什么活着”，“我为什么在这里读博士”。再之后，我又开始看youtube上的各种介绍Jeremy Bentham，Michel Foucault的视频。
+有一句玩笑说：“当科学家快要攀登到真理的顶峰时，他们发现神/佛/哲学家已经在那里等候多时了”。我在天上没飘多久，很快就被哲学的书吸引过去了。17年的时候，[scott klemmer](https://d.ucsd.edu/srk/) 来hcii给talk，一起吃了一顿午饭。scott的气质让我非常羡慕，我也想像他那么优秀，活得非常spiritual。scott 安利了达赖的鸡汤书 [The Art of Happiness](https://www.amazon.com/Art-Happiness-10th-Anniversary-Handbook-ebook/dp/B002UK6NO0), 读完以后，我思考了一年“人为什么活着”，“我为什么在这里读博士”。再之后，我又开始看youtube上的各种介绍Jeremy Bentham，Michel Foucault的视频。
 
-jason可能觉得我不着四六，一入学就想让我去做ai fairness。jason的网站上现在还介绍我是做“ai/ethics”的。16年的时候，一张平等&正义的meme很火，我一开始想做的想法类似于[Equality of Opportunity in Supervised Learning](https://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning)。做到一半，Moritz Hardt这篇论文就发出来了。我非常喜欢这篇论文，Moritz的文章像庖丁解牛，把“公平”这个混乱的观念变成了一个非常具体的数学描述。我想那个时候的自己即便手更快一点，也写不出这么好的论文。
+另外一方面，jason可能觉得我不着四六，一入学就想让我去做ai fairness。jason的网站上现在还介绍我是做“ai/ethics”的。16年的时候，一张平等&正义的meme很火，我一开始想做的想法类似于[Equality of Opportunity in Supervised Learning](https://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning)。做到一半，Moritz Hardt这篇论文就发出来了。我非常喜欢这篇论文，Moritz的文章像庖丁解牛，把“公平”这个混乱的观念变成了一个非常具体的数学描述。我想那个时候的自己即便手更快一点，也写不出这么好的论文。
 
 <img src="/resources/justice-fairness.jpg" width="700px" alt="fallingwater"/>
 
-想起来，告别神棍的日子是因为两个契机。一个是当我读越来越多的哲学书以后，发现Equality of Opportunity 原来是一个由来已久的概念。哲学家们很早就开始讨论这些，只是没有跟机器学习结合在一起。另外相比于Moritz论文里的简化，哲学家的描述更加精妙，而且充满禅意。然后我带这个问题去问jason，jason给了我一个大智慧的回答。
+告别神棍是因为两个契机。一个是当我读越来越多的哲学书以后，发现Equality of Opportunity 原来是一个由来已久的概念。哲学家们很早就开始讨论这些，只是没有跟机器学习结合在一起。另外相比于Moritz论文里的简化，哲学家的描述更加精妙，而且充满禅意。然后我带这个问题去问jason，jason给了我一个大智慧的回答。
 
 我问：为什么nsf不把钱给哲学家和社会学家来解决这些问题，他们在这个问题上比我们走得远多了。jason说：他们这条路走了几百年了，已经被证明很难解决这个问题。从计算机的角度看这些问题，现在虽然比较浅薄，但是是一条新路。这个回答让我开始把研究分成“成年的兔子”和“幼年的老虎”，而论文发表是按体积 (i.e., contributions)来算的。email++比较惨，是一只幼年的兔子，可能做了user study才能成年。
 
