@@ -28,7 +28,7 @@ Supporting Web Page Navigation](https://juhokim.com/files/UIST2014-CAKS.pdf). �
 
 #### 1. 神棍
 
-有一句玩笑说：“当科学家快要攀登到真理的顶峰时，他们发现神/佛/哲学家已经在那里等候多时了”。我没攀上高峰，在山脚下就遇到了他们。16年读得最有意思的书应该是 Michael Sandel 的 [What Money Can't Buy: The Moral Limits of Markets](https://www.amazon.com/What-Money-Cant-Buy-Markets-ebook/dp/B00633PFQC)。差不多同一时间，[scott klemmer](https://d.ucsd.edu/srk/) 来hcii给talk，一起吃了一顿午饭。Scott 安利了达赖的鸡汤书 [The Art of Happiness](https://www.amazon.com/Art-Happiness-10th-Anniversary-Handbook-ebook/dp/B002UK6NO0)。这几本书给我带了两个问题，应该是我的青年危机。
+有一句玩笑说：“当科学家快要攀登到真理的顶峰时，他们发现神/佛/哲学家已经在那里等候多时了”。我没攀上高峰，在山脚下就遇到了他们。16年读得最有意思的书应该是 Michael Sandel 的 [What Money Can't Buy: The Moral Limits of Markets](https://www.amazon.com/What-Money-Cant-Buy-Markets-ebook/dp/B00633PFQC)。差不多同一时间，[scott klemmer](https://d.ucsd.edu/srk/) 来hcii给talk，一起吃了一顿午饭。Scott 安利了达赖的鸡汤书 [The Art of Happiness](https://www.amazon.com/Art-Happiness-10th-Anniversary-Handbook-ebook/dp/B002UK6NO0)。这几本书带给我两个问题，应该是我的青年危机。
 <ul><li>“我为什么在这里读博士?”</li><li>“Privacy 为什么重要?”</li></ul>
 
 
@@ -46,10 +46,10 @@ PhD comics 有这么一张很经典的图，描述了每个Ph.D.从入学到毕�
 
 >这个理论或者也可以应用在比特币的韭菜上。
 
-我之所以觉得神棍是一个很有意思的人格，是因为Jordan Peterson。Jordan Peterson是一个我很羡慕的神棍，是多伦路大学的教授。Jordan 和Channel 4女主持人的那场[辩论](https://www.youtube.com/watch?v=aMcjxSThD54) 当时在网络上很火。 女主持人问了很多刁钻和引导性的问题，但是Jordan 一直非常冷静。不管什么问题，他都没有被自己的情绪所带走。让我感觉他似乎信仰一个他自己的理论，然后他遇到所有问题，都是用这个理论来指导他的回答。虽然他的理论未必对，但是他自己是相信的。我想做jordan这样的神棍。
+我之所以觉得神棍是一个很有意思的人格，是因为Jordan Peterson。Jordan Peterson是一个我很羡慕的神棍，他是多伦路大学的教授。Jordan 和Channel 4女主持人的那场[辩论](https://www.youtube.com/watch?v=aMcjxSThD54) 去年在网络上很火。 女主持人问了很多刁钻和引导性的问题，但是Jordan 一直非常冷静。不管什么问题，他都没有被情绪所带走。他似乎有一个笃信的理论，可以解释这个世界的一切现象，然后他遇到所有问题，都是用这个理论来指导他的回答。虽然他的理论未必对，但是他自己是相信的。我想做jordan这样的神棍。
 
 
-我是一个现实而不愿意钻牛角尖的人。第一个问题并没有卡住我很久, 但我始终找不到第二个问题的答案
+<!-- 我是一个现实而不愿意钻牛角尖的人。第一个问题并没有卡住我很久, 但我始终找不到第二个问题的答案 -->
 
 
 #### 2. 工程师
@@ -76,6 +76,11 @@ For Aristotelians, motion covered a far-flung family of phenomena: a peach ripen
 
 
 #### 3. 高立意，低视角
+
+过去一年，我对很多事情发生了改观。比如灌水，或者 学术圈 Publish or perish 的culture。在一开始我一直觉得这是一种toxic的文化。
+一直到最近，我才改变对于灌水的看法。我现在觉得灌水其实是人类系统性科研的一部分。Publish or perish 其实
+
+媒体
 
 几乎我所有的博士研究都不是科技driven的research。我很少刻意地去看现在有什么新的硬件技术，然后去探索新的机会。相反，我有很多想做的想法一直在脑海里，他们有着各自的立场。而科技的发展，或者随着我学会更多的知识，很多本来不可能的想法，渐渐变得可能，这些逐渐变得可能的方法才是我的研究项目。
 
