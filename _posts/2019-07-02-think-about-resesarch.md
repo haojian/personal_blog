@@ -103,13 +103,13 @@ For Aristotelians, motion covered a far-flung family of phenomena: a peach ripen
 但有一类新闻节目是高立意低视角的: 在鸡毛蒜皮里折射一个大议题。很多时候，这些鸡毛小事最后成了撬动大议题的杠杆。最近让我很感兴趣的新闻助老电梯。国内旧小区里很多老的6层楼房并没有电梯，但是住户年龄增大，国家开始鼓励商业化建造助老电梯。而电梯的建造对于各层楼的住户的利益都不一样, 于是有了各种邻里争吵。这里面有很多有意思的收费方法，比equal opportunity那篇论文更加精彩。
 
 
-研究最重要的定义是新的, 只要是新的，那就是在向前走。至于有多新，或者有多实用，那只是向前走多少步的区别。今天我对研究的看法和我[17年的时候](http://blog.haojianj.in/posts/me-and-my-research), 发生了一些变化。那个时候，paul graham对于novelty和goodness的讨论，让我觉得研究是一件很消极的事情。
+研究最重要的定义是新的, 只要是新的，那就是在向前走。至于有多新，或者有多实用，那只是向前走多少步的区别。今天我对研究的看法和我[17年的时候](http://blog.haojianj.in/posts/me-and-my-research), 发生了一些变化。那个时候，我很同意paul graham对于novelty和goodness的讨论：研究是一件很消极的事情。
 
 >  Design doesn't have to be new, but it has to be good. Research doesn't have to be good, but it has to be new. I think these two paths converge at the top: the best design surpasses its predecessors by using new ideas, and the best research solves problems that are not only new, but actually worth solving. - [Design and Research
  by Paul graham](http://www.paulgraham.com/desres.html)
 
 
-现在，我觉得好的科学研究要借势。首先它要非常具体，这样可以和bullshit区分开，其次他要联系到更大的议题。最后这个具体的问题，是撬动这个大议题很重要的杠杆。过去三年，我对于技术实现的水平未必比读博前更厉害，但我应该比以前更会画饼了。我攒了很多想做的想法，每一个有着各自的立场(moral ground)。而科技的发展，或者随着我有更多的资源，很多本来不可能的想法，渐渐变得可能。这应该是我的研究风格。
+现在，我觉得好的科学研究要借势。首先它要非常具体，这样可以和bullshit区分开，其次它要联系到更大的议题。最后这个具体的问题，是撬动这个大议题很重要的杠杆。过去三年，我对于技术实现的水平未必比读博前更厉害，但我应该比以前更会画饼了。我攒了很多想做的想法，每一个有着各自的立场(moral ground)。而科技的发展，或者随着我有更多的资源，很多本来不可能的想法，渐渐变得可能。去追求这些想法，应该是我想要的研究风格。
 
 
 
