@@ -6,7 +6,7 @@ tags: [life, phd, cn]
 ---
 
 
-拖了很久，终于在jason的接连催促下，我把 [email++](https://arxiv.org/abs/1907.01423) 上传到了 arXiv。email++ 的想法很简单：如何去修改已经发出去的邮件。因为SMTP protocols的关系，邮件发出去以后，会存储在了收件人的服务器，发件人就不能再修改了。我经常因为蹩脚的语法，发现刚发出去的邮件有时态错误，想修改发出去的邮件。做法也很简单，把邮件里面一部分内容换成图片超链接，而图片是存在第三方服务器上的。这样只要更新第三方图片，收件人看到的邮件也会相应改变。整篇论文介绍了我们的chrome插件，但是没做user study。
+拖了很久，终于把 [email++](https://arxiv.org/abs/1907.01423) 上传到了 arXiv。email++ 的想法很简单：如何去修改已经发出去的邮件。因为SMTP protocols的关系，邮件发出去以后，会存储在了收件人的服务器，发件人就不能再修改。我因为蹩脚的语法，经常发现刚发出去的邮件有时态错误，想修改已经发出去的邮件。做法也很简单，把邮件里面一部分内容换成图片超链接，而图片是存在第三方服务器上的。这样只要更新第三方图片，收件人看到的邮件也会相应改变。整篇论文介绍了我们的chrome插件，但是没做user study。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HlFFL0eH3sc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
@@ -15,25 +15,25 @@ Supporting Web Page Navigation](https://juhokim.com/files/UIST2014-CAKS.pdf). �
 
 > 我命硬. 学不来弯腰.        - [Gai 沧海一声笑](https://www.youtube.com/watch?v=06urMzpGxko)
 
-我对自己感到很失望，因为这一次小实验我没有抓到发表论文的精髓。这个精髓在于很多方面: 想法，执行，以及写作。可能每个地方差一点，导致我最后不能把它发表。一直到有一天看到 david chang 的一个[访问](https://www.wired.com/2016/07/chef-david-chang-on-deliciousness/)。david chang 是一个厨艺界的明星，做过几个很有名的美食纪录片(如The Mind of a Chef)。他谦虚说自己做饭的技巧很差，为了弥补技巧上得不足，他需要不停地去思考食物的可能性。
+不管怎样，我对自己感到很失望，因为这一次小实验我没有抓到发表论文的精髓。这个精髓在于很多方面: 想法，执行，以及写作。可能每个地方差一点，导致我最后不能把它发表。一直到有一天看到 david chang 的一个[访问](https://www.wired.com/2016/07/chef-david-chang-on-deliciousness/)。david chang 是一个厨艺界的明星，做过几个很有名的美食纪录片(如The Mind of a Chef)。他谦虚说自己做饭的技巧很差，为了弥补技巧上得不足，他需要不停地去思考食物的可能性。
 
 
 >To compensate for my lack of dexterity, speed, and technique, I think about food constantly. In fact, I’m much stronger at thinking about food than I am at cooking it. - [David Chang’s Unified Theory of Deliciousness](https://www.wired.com/2016/07/chef-david-chang-on-deliciousness/)
 
 
-因为这句话，我成了david chang的小粉丝。研究和做饭很像。学校里有很多天赋异禀的stellar scientists，他们一路顶级学霸，非常好的数学功底和编程能力，就像那些手指灵巧的厨师。可能我写一天的程序，大佬们坐下来一小时就写完了。相比于他们，我觉得我的特长是在“想”这件事上。我很喜欢匹兹堡，因为我大部分时间都很安静，所以有大把的时间来读书和空想。实际上，我对每个项目想的时间要比做的时间多很多。时间久了，我反而觉得这种局限是一种特别的优点。
+因为这句话，我成了david chang的小粉丝。研究和做饭很像。学校里有很多天赋异禀的stellar scientists，他们一路顶级学霸，非常好的数学功底和编程能力，就像那些手指灵巧的厨师。可能我写一天的程序，大佬们坐下来一小时就写完了。相比于他们，我觉得我的特长是在“想”这件事上。我很喜欢匹兹堡，因为大部分时间都很安静，有大把的时间来读书和空想。实际上，我对每个项目想的时间要比做的时间多很多。时间久了，我觉得这种局限是一种特别的优点。
 
 
 17年底的时候，我觉得email++这篇论文不值得我的时间，于是决定不在这个项目上继续投入任何时间。<b>并不是我再不需要证明自己，而是我觉得发这些论文也证明不了自己。</b>这篇essay记录了自己这几年的变化: 神棍-》工程师-》高立意低视角，这些变化其实并不是顺序发生，只是类似的事情重复发生，我今天回过头去看，才觉得这是我想要的研究风格。
 
 #### 1. 神棍
 
-有一句玩笑说：“当科学家快要攀登到真理的顶峰时，他们发现神/佛/哲学家已经在那里等候多时了”。我没攀上高峰，在山脚下就遇到了他们。16年读得最有意思的书应该是 Michael Sandel 的 [What Money Can't Buy: The Moral Limits of Markets](https://www.amazon.com/What-Money-Cant-Buy-Markets-ebook/dp/B00633PFQC)。差不多同一时间，[scott klemmer](https://d.ucsd.edu/srk/) 来hcii给talk，一起吃了一顿午饭。Scott 安利了达赖的鸡汤书 [The Art of Happiness](https://www.amazon.com/Art-Happiness-10th-Anniversary-Handbook-ebook/dp/B002UK6NO0)。这几本书带给我两个问题，应该是我的青年危机。
+有一句玩笑说：“当科学家快要攀登到真理的顶峰时，他们发现神/佛/哲学家已经在那里等候多时了”。我没攀上高峰，在山脚下就遇到了他们。16年读得最有意思的书应该是 Michael Sandel 的 [What Money Can't Buy: The Moral Limits of Markets](https://www.amazon.com/What-Money-Cant-Buy-Markets-ebook/dp/B00633PFQC)。差不多同一时间，[scott klemmer](https://d.ucsd.edu/srk/) 来hcii给talk，一起吃了一顿午饭。Scott 安利了达赖的鸡汤书 [The Art of Happiness](https://www.amazon.com/Art-Happiness-10th-Anniversary-Handbook-ebook/dp/B002UK6NO0)。这几本书带给我两个问题，应该是我的青年危机(Quarter-life crisis)。
 <ul><li>“我为什么在这里读博士?”</li><li>“Privacy 为什么重要?”</li></ul>
 
 
 <img src="/resources/phd_self_expect.gif" width="700px" alt="fallingwater"/>
-PhD comics 有这么一张图，描述了每个Ph.D.从入学到毕业的期望。一开始大家都是野心勃勃的博士生，渐渐被导师和审稿人打击，然后最后想着毕业就好。一开始，我和这根单调递减曲线的抗争就是吹牛皮，吹最大的牛皮。一帮博士生半夜在办公室里群魔乱舞，轮番吹牛，相互吹捧，描述自己的研究想法对这个世界将产生如何深远的影响。人性，宇宙，总之怎么宏大怎么来。看问题时间维度是百年起步，空间维度是银河系，谷歌这个级别弹指间灰飞烟灭。
+PhD comics 有这么一张图，描述了每个Ph.D.从入学到毕业的期望。一开始大家都是野心勃勃的博士生，渐渐被导师和审稿人打击，然后最后想着毕业就好。一开始，我和这根单调递减曲线的抗争就是吹牛皮，吹最大的牛皮。一帮博士生半夜在办公室里群魔乱舞，轮番吹牛，午夜夸夸群，描述自己的研究想法对这个世界将产生如何深远的影响。人性，宇宙，总之怎么宏大怎么来。看问题时间维度是百年起步，空间维度是银河系，谷歌这个级别弹指间灰飞烟灭。
 
 
 现在打开overleaf，还能看到那个时期的好几个论文草稿，其中有一个是研究输入法和人类语言演变的关系。我觉得输入法的自动提示和修改会对每个用户的词汇量产生影响。用户会越来越少打第二页的词组，而很多词汇和单词如果不经常用就会慢慢忘记。以中文为例，我们从手写到打字，从五笔到拼音，算下来也就几十年的时间。如果继续今天这样打字到2050年，可能很多词汇会因为输入法的关系渐渐消失。维特根斯坦说“语言的界限就是思想的界限”。那这样，整个人类的思想就会自己创造出来的echo chamber给限制住。
@@ -81,49 +81,49 @@ For Aristotelians, motion covered a far-flung family of phenomena: a peach ripen
 
 #### 3. 高立意，低视角
 
-过去一年，我对很多事情发生了改观，比如灌水。我一开始觉得学术圈Publish or perish 的culture是一种toxic的文化。一直到最近，我才改变对于灌水的看法。灌水是人类系统性科研的一部分，就像小孩子读书要从死记硬背开始，作家写书靠勤奋而不是灵感。研究里面偶尔有大跃进，但大部分时候是“积硅步”。当你从更大的视角去看这一切，一步或者十步其实没那么大区别。
+过去一年，我对很多事情发生了改观，比如灌水。我一开始觉得学术圈Publish or perish 的culture是一种toxic的文化。但现在，我觉得灌水是人类系统性科研的一部分，就像小孩子读书要从死记硬背开始([Bloom’s Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/))，作家写书靠勤奋而不是灵感([On writing well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548))。研究里面偶尔有大跃进，但大部分时候是“积硅步”。当你从更大的视角去看这一切，只要是向前走，一步或者十步其实没那么大区别。
+
+<!-- <img src="/resources/blooms-taxonomy.jpg" width="700px" alt="fallingwater"/> -->
+
 
 > The key thing about all the world's big problems is that they have to be dealt with collectively. If we don't get collectively smarter, we're doomed. - Douglas Engelbart
 
-这句话是关于collective wisdom很有名的一句话，但我第一次读这句话的时候却感觉很震撼。我的理想值是1+1>2，因为很多人合作的时候，有各种思想碰撞的火花。而这句话的期望值要低很多，他陈述了两个观点: 
+这是关于collective wisdom很有名的一句话，但我第一次读这句话的时候却感觉很震撼。我有一种不切实际的理想，觉得人们互相合作应该是1+1>2。因为多人合作有各种思想碰撞的火花。而这句话的期望值要低很多，他陈述了两个观点: 
 - 1+1 > 1; 
 - 1+1 < 1+1+1 < 1+1+1+1 < 1+...+1.
 
+二年级时，我在纠结我的长期研究方向。那段时间，Jason让我去读了很多白宫的技术报告。这些报告教了我两件事，政府里有很多聪明人对科技有很深的理解，学术圈其实被政府牵着鼻子走。国家意志和国家机器对于科技的追求从来不是来自于个人的兴趣，而是满足整个社会的需要。可能只有在某个微观的瞬间，自己的兴趣和国家的宏观意志对齐在了一起。
 
-研究从来不是满足自己的兴趣，而是满足整个社会的需要。建功立业也只是人类这个维度上的资源优化再分配。没有绝对的自由。
 
 <img src="/resources/donkey-carrot.jpeg" width="400px" alt="fallingwater"/>
 
-
-在新闻媒体里面有一个很有意思的说法，叫高立意低视角。高立意指的是那些高大上的社会议题，高考公平，人民养老，农村生活，诸如此类。低视角说的是那些市民新闻里鸡毛蒜皮的小事，如1818黄金眼。某市民去理发店办了会员卡，不让退款。市民新闻有意思的点是每一个新闻最后都有一堆action items，然后记者会跟踪执行，一直到这件事落实。因为那些事情鸡毛蒜皮，以至于每个人都有共情。而那些高立意的题目因为牵涉太大，更多只是告诉大家有这样的问题存在，却无法去解决这样的问题。
-
-有一类新闻节目总是那些高立意低视角的。在鸡毛蒜皮里折射一个大议题，很多时候，这些鸡毛小事最后成了撬动大议题的杠杆。比如助老电梯。
-
-满足自己的表达欲。
-
-我觉得好的科学研究也是这样，首先他要非常具体，然后他要联系到更大的议题，最后这个具体的问题，是撬动这个大问题很重要的杠杆。几乎我所有的博士研究都不是科技driven的research。我很少刻意地去看现在有什么新的硬件技术，然后去探索新的机会。相反，我有很多想做的想法一直在脑海里，他们有着各自的立场。而科技的发展，或者随着我学会更多的知识，很多本来不可能的想法，渐渐变得可能，这些逐渐变得可能的方法才是我的研究项目。
+新闻媒体里有一个很有意思的说法，叫高立意低视角。高立意指的是那些高大上的国家意志议题，高考公平，人民养老，农村生活，诸如此类。低视角说的是那些市民新闻里鸡毛蒜皮的小事，如1818黄金眼。某市民去理发店办了会员卡，不让退款。市民新闻有意思的点是每一个新闻最后都有一堆action items，然后记者会跟踪执行，一直到这件事落实。因为那些事情鸡毛蒜皮，以至于每个人都有共情。而那些高立意的题目因为牵涉太大，更多只是告诉大家有这样的问题存在，却无法去解决这样的问题。
 
 
+但有一类新闻节目是高立意低视角的: 在鸡毛蒜皮里折射一个大议题。很多时候，这些鸡毛小事最后成了撬动大议题的杠杆。最近让我很感兴趣的新闻助老电梯。国内旧小区里很多老的6层楼房并没有电梯，但是住户年龄增大，国家开始鼓励商业化建造助老电梯。而电梯的建造对于各层楼的住户的利益都不一样, 于是有了各种邻里争吵。这里面有很多有意思的收费方法，比equal opportunity那篇论文更加精彩。
 
-几乎每一篇论文，我都有一段话藏在论文里，是我觉得自己的高光时刻。虽然很多时候，我有些失望审稿人没有发现我的那些高光时刻，他们也不会夸我。但是我只要静下心来，读那些句子，就会觉得写下那个句子的那瞬间，我的智商应该是高过我的平均水平的。
 
-过去两年，我看了很多政治的书，作为一个不爱政治的人，我从这里面学到一点。就是每个人都有自己的立场，每个人需要为自己的立场发声。
-冯小刚拍《芳华》的时候讲了一句话让我触动很大，每一代导演要服务一个时代的人，这是那一代导演的责任。因为后面或者前面那一代导演都没有经历过这一代人所经历的。
+研究最重要的定义是新的, 只要是新的，那就是在向前走。至于有多新，或者有多实用，那只是向前走多少步的区别。今天我对研究的看法和我[17年的时候](http://blog.haojianj.in/posts/me-and-my-research), 发生了一些变化。那个时候，paul graham对于novelty和goodness的讨论，让我觉得研究是一件很消极的事情。
 
-我当时最喜欢的书是David Brin的[The Transparent Society](https://www.amazon.com/Transparent-Society-Technology-Between-Privacy/dp/0738201448)。这本书讲的是未来世界里，监控设备越来越便宜。当各种摄像头部署以后，整个社会变得透明，每个人都没有隐私。
+>  Design doesn't have to be new, but it has to be good. Research doesn't have to be good, but it has to be new. I think these two paths converge at the top: the best design surpasses its predecessors by using new ideas, and the best research solves problems that are not only new, but actually worth solving. - [Design and Research
+ by Paul graham](http://www.paulgraham.com/desres.html)
 
-> "If we're free and powerful as citizens, privacy is something we'll be able to negotiate among ourselves." The key is reciprocal accountability...that we have the power to watch the watchers. 
 
-我觉得大家不需要隐私，需要的是权利。透明的世界可以让这个世界运行地更好，我们只是需要每个人都有权利去反向监管管理者。
+现在，我觉得好的科学研究要借势。首先它要非常具体，这样可以和bullshit区分开，其次他要联系到更大的议题。最后这个具体的问题，是撬动这个大议题很重要的杠杆。过去三年，我对于技术实现的水平未必比读博前更厉害，但我应该比以前更会画饼了。我攒了很多想做的想法，每一个有着各自的立场(moral ground)。而科技的发展，或者随着我有更多的资源，很多本来不可能的想法，渐渐变得可能。这应该是我的研究风格。
+
+
+
 
 
 #### 结尾
-交掉mobicom camera ready的浮生半日闲来写这篇小随笔，写着写着，发现写成了读书笔记。有一本书叫[Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287)，这里的很多书都是好几年前看的，书里的想法确实是stick to my mind。趁现在写下来，好过以后忘却。
+
+本来是想写一个短短的note的，写完读了几遍，让我想起了曹操[让县自明本志令](https://baike.baidu.com/item/%E8%BF%B0%E5%BF%97%E4%BB%A4/4768619?fromtitle=%E8%AE%A9%E5%8E%BF%E8%87%AA%E6%98%8E%E6%9C%AC%E5%BF%97%E4%BB%A4&fromid=890268)的感觉 -- 真把自己当回事。不过趁现在写下来，好过以后忘却。
+
+<!-- 这里的很多书都是好几年前看的，书里的想法确实是stick to my mind。 -->
 
 
-在王中林看来，科学家的人生分为三个阶段，第一阶段是向世界证明自己的才华；第二阶段是尽力帮助朋友和周围的人；第三个阶段要用自己的知识来为国家和社会作贡献。他觉得自己已经进入了第三个阶段。 
-[王中林，一位开挂的科学家和他的纳米帝国](https://www.guokr.com/article/442442/)
 
+<!-- 交掉mobicom camera ready的浮生半日闲来写这篇小随笔，写着写着，发现写成了读书笔记。有一本书叫[Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287)， -->
 
 <!-- 
 有点像Frank Lloyd Wright设计fallingwater时，压低了窗口处天花板的高度，为了促使住户看向窗外的景色。
