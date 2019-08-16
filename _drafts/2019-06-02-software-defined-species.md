@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "价值函数."
-description: "human centered value function."
+description: "Software Defined Species."
 tags: [life, phd, cn]
 ---
+
+https://www.liebertpub.com/doi/full/10.1089/space.2017.29009.emu
 
 5g 的三种实现方式。
 其实5g的definition很简单。就是更好的network results.
