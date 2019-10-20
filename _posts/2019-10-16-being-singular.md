@@ -30,5 +30,5 @@ Pharrell用了词汇singular，因为singularity这个词一直被滥用，我�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/puotvYAkjQU?start=152" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-我是一个矛盾的人。一方面赌性很大，另一方面又在生活里非常risk-averse。我几乎不冒任何不必要的风险。我看不上那些不必要的风险，是因为我觉得自己的想法可以有更大的leverage，我要攒着那些赌性赌一把更大的。:-)
+我也不想去延长线上工作。我是一个矛盾的人。一方面赌性很大，另一方面又在生活里非常risk-averse。我几乎不冒任何不必要的风险。我看不上那些不必要的风险，是因为我觉得自己的想法可以有更大的leverage，我要攒着那些赌性赌一把更大的。:-)
 
