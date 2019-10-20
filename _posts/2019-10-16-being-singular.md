@@ -24,9 +24,12 @@ Pharrell用了词汇singular，因为singularity这个词一直被滥用，我�
 
 企业里也差不多。[The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Cause-Great/dp/1565114159)讲述了一个类似的故事。大公司和技术创新的小公司竞争并不永远占优势。因为新技术通常只服务一个小的市场，而这一部分小市场的利润无法满足大公司的财政需求。但是随着技术和环境的发展，小市场越变越大，大公司回过头想跳进去的时候，却已经来不及了。这些小公司一开始在小市场里面做老大，后来市场变大了，便成了大市场的老大。雅虎是这样错过了谷歌，谷歌又类似得错过了脸书。
 
-不过这件事应该知易行难吧。贾跃亭16年和马云的对话其实讲的很好。
+不过这件事应该知易行难吧。贾跃亭16年和马云的对话讲的很好, 但最后操作起来还是出了问题。
 
 > 如何能够突破上一代企业的封锁，只需要一件事情，判断下一个时代到底是什么，而不是在BAT的延长线上去做创新。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/puotvYAkjQU?start=152" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+我是一个矛盾的人。一方面赌性很大，另一方面又在生活里非常risk-averse。我几乎不冒任何不必要的风险。我看不上那些不必要的风险，是因为我觉得自己的想法可以有更大的leverage，我要攒着那些赌性赌一把更大的。:-)
+
 
