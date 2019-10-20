@@ -79,4 +79,4 @@ tags: [life, phd, cn]
 
 <!-- 很长一段时间，我都纠结于自己的身份认同: scientist v.s. engineer。图灵奖获得者Frederick P. Brooks, Jr.那篇文章给了我很多的启示。“The scientist builds in order to study; the engineer studies in order to build.” scientists 实践来打磨方法论，engineers 应用方法论来改进实践。实践是检验真理的唯一标准。 -->
 
-这篇essay最早是在19年暑假的末尾写的，但一直没有时间整理。最近告别了完美主义，一口气把很多没完成的essay都写完了。
+这篇essay最早是在19年暑假的末尾写的，但一直没有时间整理。最近告别了完美主义，一口气把很多没完成的小文章都写完了。
