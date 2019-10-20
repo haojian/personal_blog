@@ -116,7 +116,6 @@ For Aristotelians, motion covered a far-flung family of phenomena: a peach ripen
 
 本来是想写一个短短的note的，写完读了几遍，让我想起了曹操[让县自明本志令](https://baike.baidu.com/item/%E8%BF%B0%E5%BF%97%E4%BB%A4/4768619?fromtitle=%E8%AE%A9%E5%8E%BF%E8%87%AA%E6%98%8E%E6%9C%AC%E5%BF%97%E4%BB%A4&fromid=890268)的感觉 -- 真把自己当回事。不过趁现在写下来，好过以后忘却。
 
-<!-- 这里的很多书都是好几年前看的，书里的想法确实是stick to my mind。 -->
 
 
 
@@ -129,13 +128,6 @@ For Aristotelians, motion covered a far-flung family of phenomena: a peach ripen
  <i>Fallingwater 是一座建筑史上特别有名的住宅, 建立在匹兹堡附近的一处瀑布旁边。Frank Lloyd Wright 在设计这座住宅时，提倡了一种不同的建筑理念：住宅要完全融入自然之中。每个房间靠近窗口处的天花板都会拉低，强迫房间里的人看向窗外的自然环境。</i> 
  
  
- 
-
-
-我非常不喜欢“奇葩说”里面那样翻来覆去的文字游戏。
-
-“移动”这个词语的意义对于传播物理的概念非常有利。
-
 
 
 每一个问题都要顺着纹理去切开。
