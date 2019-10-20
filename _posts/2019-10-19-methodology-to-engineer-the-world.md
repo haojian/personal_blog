@@ -74,6 +74,8 @@ tags: [life, phd, cn]
 
 王国维在<<人间词话>>里说诗词"有有我之境，有无我之境。"方文山只写“有我之境”的词，而毛主席写词，就是一副大豪杰的大格局。“北国风光，千里冰封，万里雪飘。”，“人生易老天难老。” 或者这样的大格局才能配的上毛主席那么宏观的方法论吧。
 
+<!-- Sam Altman有一篇很有名的文章，叫[How To Be Successful](https://blog.samaltman.com/how-to-be-successful)。 -->
+
 <!-- emily上周劝我把格局再放大一点， -->
 
 
