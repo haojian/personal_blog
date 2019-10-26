@@ -43,7 +43,7 @@ tags: [life, entrepreneur, cn]
 
 > Startups usually involve technology, so much so that the phrase "high-tech startup" is almost redundant. A startup is a small company that takes on a hard technical problem.
 
-回想起来，一开始选择回国，其实是无知地以为国内会比较便宜。我比较抠门，想着反正自己就能干活，就找个更便宜的地方闭关搞开发。我当时回国最大的阻力其实是不知道怎么把我心爱的台式机抗回国，怎么在国内搭出一个舒适的开发环境。
+回想起来，一开始选择回国，其实是无知地以为国内会比较便宜。我比较抠门，想着反正自己就能干活，就找个更便宜的地方闭关搞开发。我当时回国最大的阻力其实是不知道怎么把我心爱的台式机扛回国，怎么在国内搭出一个舒适的开发环境。
 
 另外一个回国的驱动力是种子用户。湾区是一个被工程师文化统治的地方, “proud to be a nerd”。在刚过去的时候，很兴奋，因为每个人都是 tech-savvy 的。你和每个人讲编程，讲科技，讲创业，大家都可以和你讨论。在饭馆里，还可以偷听隔壁桌工程师吹牛。但是时间久了，也会有些难受，因为身边的朋友背景都很类似，交流上面就少了很多火花，仿佛又回到了理工科学校的大学时代。当我刚做出MVP的时候，我就特别希望能找到一群non-tech的朋友来当我的种子用户，然后我就想到了回国。
 
