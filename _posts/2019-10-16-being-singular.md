@@ -15,11 +15,12 @@ maggie当时应该在nyu的一个artist in residence program，然后pharrell wi
 > Wow, I have zero zero zero notes for that and i'll tell you why. 
 it's because you're doing your own thing. it's singular. it's like when the wu-tang clan came out, no one can really judge it. you either liked it or you didn't. but you couldn't compare it to anything else. 
  
-Pharrell用了词汇singular，因为singularity这个词一直被滥用，我对这个词有些缺乏好感。但这个词用在这里特别准确，也有味道。
+Pharrell用了词汇singular，因为singularity这个词一直被滥用，我对这个词有些缺乏好感。但这个词用在这里特别准确。
+
+想起来这几年开始特别喜欢梁龙和二手玫瑰。特别喜欢那种唢呐一响，心里就开始有一种期待的感觉。我想对一个人最高的评价就是，他是如此得与众不同。
 
 我们一边打球一边讨论，最后的结论是：
 > 做孙子是做不成爷爷的。孙子老了也不会变成爷爷。真正的大佬们年轻的时候就是做爷爷，只是一开始做很少一部分人的爷爷。然后渐渐的，他做的东西变得越来越大，越来越多的人抢着给做孙子，然后就变成很多人的爷爷，也就是名副其实的大佬。”
-
 
 
 
